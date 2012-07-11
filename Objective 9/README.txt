@@ -1,0 +1,3 @@
+Objective 9: Design and implement a software system that effectively leveragse multiple cores.
+
+AntsAgentBasedModel(C#): This is an agent based model of ants living in a peaceful land with food. The picture box that draws all of the graphics is handle on a different thread then the main program. This was done to lessen the slugishness when to many Pheromones were created in the program. Pheromones are created when Ants pick up food from a food source so other Ants can find that source also.

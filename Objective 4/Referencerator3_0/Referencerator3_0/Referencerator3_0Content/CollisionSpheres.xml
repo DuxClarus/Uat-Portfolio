@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="SkinnedModel.SkinnedSphere[]">
+    <Item>
+      <BoneName>Character1_LeftUpLeg</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_LeftLeg</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_LeftFoot</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_RightUpLeg</BoneName>
+      <Radius>1</Radius>
+    </Item>
+    
+    <Item>
+      <BoneName>Character1_RightLeg</BoneName>
+      <Radius>1</Radius>
+    </Item>
+    
+    <Item>
+      <BoneName>Character1_RightFoot</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_Spine</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_LeftShoulder</BoneName>
+      <Radius>1</Radius>
+    </Item>
+    
+    <Item>
+      <BoneName>Character1_LeftArm</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_LeftForeArm</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_LeftHand</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_RightShoulder</BoneName>
+      <Radius>1</Radius>
+    </Item>
+    
+    <Item>
+      <BoneName>Character1_RightArm</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_RightForeArm</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_RightHand</BoneName>
+      <Radius>1</Radius>
+    </Item>
+
+    <Item>
+      <BoneName>Character1_Neck</BoneName>
+      <Radius>1</Radius>
+    </Item>
+   
+  </Asset>
+</XnaContent>

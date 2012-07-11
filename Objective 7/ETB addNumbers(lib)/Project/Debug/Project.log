@@ -1,0 +1,17 @@
+﻿Build started 4/7/2012 2:38:34 PM.
+     1>Project "C:\Assembly Projects\ETB addNumbers(lib)\Project\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\addNumbers.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+       Skipping target "_MASM" because all output files are up-to-date with respect to the input files.
+       Lib:
+         All outputs are up-to-date.
+         Project.vcxproj -> C:\Assembly Projects\ETB addNumbers(lib)\Project\Debug\addNumbers.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\addNumbers.unsuccessfulbuild".
+         Touching "Debug\addNumbers.lastbuildstate".
+     1>Done Building Project "C:\Assembly Projects\ETB addNumbers(lib)\Project\Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14

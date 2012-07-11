@@ -1,0 +1,20 @@
+﻿Build started 4/4/2012 12:22:03 PM.
+     1>Project "C:\Assembly Projects\ETB integrate c\Project\Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       _MASM:
+       Skipping target "_MASM" because all output files are up-to-date with respect to the input files.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Assembly Projects\ETB integrate c\Project\Debug\Project.exe" /NOLOGO /LIBPATH:"C:\Assembly Projects\ETB integrate c\Project\\Irvine" user32.lib "C:\Assembly Projects\ETB integrate c\Project\\Irvine\irvine32.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Project.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Assembly Projects\ETB integrate c\Project\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Assembly Projects\ETB integrate c\Project\Debug\Project.lib" /MACHINE:X86 Debug\main.obj
+         LINK : C:\Assembly Projects\ETB integrate c\Project\Debug\Project.exe not found or not built by the last incremental link; performing full link
+         Project.vcxproj -> C:\Assembly Projects\ETB integrate c\Project\Debug\Project.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Assembly Projects\ETB integrate c\Project\Debug\Project.exe;#1" /manifest Debug\Project.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Project.unsuccessfulbuild".
+         Touching "Debug\Project.lastbuildstate".
+     1>Done Building Project "C:\Assembly Projects\ETB integrate c\Project\Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.95

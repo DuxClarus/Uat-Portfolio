@@ -1,0 +1,42 @@
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Form1.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Properties.Resources.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\bin\Debug\L-SystemApplication.exe
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\bin\Debug\L-SystemApplication.pdb
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L-SystemApplication.exe
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L-SystemApplication.pdb
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L-SystemApplication.exe
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L-SystemApplication.pdb
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\bin\Debug\L-SystemApplication.exe
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\bin\Debug\L-SystemApplication.pdb
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Form1.resources
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Properties.Resources.resources
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ethbehar.KNOWN-UNIVERSE\Desktop\L-SystemApplication\L-SystemApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\L-SystemApplication.exe
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\L-SystemApplication.pdb
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Form1.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Properties.Resources.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\bin\Debug\L-SystemApplication.exe
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\bin\Debug\L-SystemApplication.pdb
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\L_SystemApplication.AxiomErrorForm.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\obj\x86\Debug\L_SystemApplication.RuleErrorForm.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\L-SystemApplication.exe
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\L-SystemApplication.pdb
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\bin\Debug\L-SystemApplication.exe
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\bin\Debug\L-SystemApplication.pdb
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\L_SystemApplication.AxiomErrorForm.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Form1.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Properties.Resources.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\L_SystemApplication.RuleErrorForm.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dux\Homework\Semester 5\L-SystemApplicationProjecr\L-SystemApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dux\Desktop\Objective 2\L-SystemApplicationProject\L-SystemApplication\obj\x86\Debug\L-SystemApplication.exe
+C:\Users\Dux\Desktop\Objective 2\L-SystemApplicationProject\L-SystemApplication\obj\x86\Debug\L-SystemApplication.pdb

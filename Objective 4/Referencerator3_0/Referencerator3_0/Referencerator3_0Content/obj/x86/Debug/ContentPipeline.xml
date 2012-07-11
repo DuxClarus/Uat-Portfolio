@@ -1,0 +1,697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\gizmo_rotate.FBX</Source>
+      <Name>Models\gizmo_rotate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\gizmo_rotate.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\gizmo_rotate_0.xml</Key>
+        <Value>2012-06-29T14:09:13.439713-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\gizmo_scale.fbx</Source>
+      <Name>Models\gizmo_scale</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\gizmo_scale.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\gizmo_scale_0.xml</Key>
+        <Value>2012-06-29T14:09:13.779747-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\gizmo_translate.fbx</Source>
+      <Name>Models\gizmo_translate</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\gizmo_translate.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\gizmo_translate_0.xml</Key>
+        <Value>2012-06-29T14:09:13.8637554-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Cone.fbx</Source>
+      <Name>Models\Basic Polys\Cone</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Basic Polys\Cone.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic Polys\Cone_0.xml</Key>
+        <Value>2012-06-29T14:09:13.9507641-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Cube.fbx</Source>
+      <Name>Models\Basic Polys\Cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Basic Polys\Cube.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic Polys\Cube_0.xml</Key>
+        <Value>2012-06-29T14:09:14.0327723-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Cylinder.fbx</Source>
+      <Name>Models\Basic Polys\Cylinder</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Basic Polys\Cylinder.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic Polys\Cylinder_0.xml</Key>
+        <Value>2012-06-29T14:09:14.1217812-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Pyramid.fbx</Source>
+      <Name>Models\Basic Polys\Pyramid</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Basic Polys\Pyramid.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic Polys\Pyramid_0.xml</Key>
+        <Value>2012-06-29T14:09:14.2337924-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Sphere.fbx</Source>
+      <Name>Models\Basic Polys\Sphere</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Basic Polys\Sphere.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Basic Polys\Sphere_0.xml</Key>
+        <Value>2012-06-29T14:09:14.3408031-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Character Models\New Rig.fbx</Source>
+      <Name>Models\Character Models\New Rig</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Character Models\New Rig.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Character Models\New Rig_0.xml</Key>
+        <Value>2012-06-29T14:09:15.2038894-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Character Models\Rig Test(Combined).fbx</Source>
+      <Name>Models\Character Models\Rig Test(Combined)</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Character Models\Rig Test(Combined).xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Character Models\Rig Test(Combined)_0.xml</Key>
+        <Value>2012-06-29T14:09:16.1649855-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Character Models\RigTest3.fbx</Source>
+      <Name>Models\Character Models\RigTest3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Character Models\RigTest3.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Character Models\RigTest3_0.xml</Key>
+        <Value>2012-06-29T14:09:16.7280418-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Character Models\Wooden_Rig.fbx</Source>
+      <Name>Models\Character Models\Wooden_Rig</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Character Models\Wooden_Rig.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Character Models\Wooden_Rig_0.xml</Key>
+        <Value>2012-06-29T14:09:17.6541344-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Furniture\Chair.fbx</Source>
+      <Name>Models\Furniture\Chair</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Furniture\Chair.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Furniture\Chair_0.xml</Key>
+        <Value>2012-06-29T14:09:17.8491539-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Furniture\Couch.fbx</Source>
+      <Name>Models\Furniture\Couch</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Furniture\Couch.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Furniture\Couch_0.xml</Key>
+        <Value>2012-06-29T14:09:17.9691659-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Furniture\Table.fbx</Source>
+      <Name>Models\Furniture\Table</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Furniture\Table.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Furniture\Table_0.xml</Key>
+        <Value>2012-06-29T14:09:18.0871777-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\LampPost.fbx</Source>
+      <Name>Models\Scene Assets\LampPost</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Scene Assets\LampPost.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Scene Assets\LampPost_0.xml</Key>
+        <Value>2012-06-29T14:09:18.1841874-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\LemonadeStand.fbx</Source>
+      <Name>Models\Scene Assets\LemonadeStand</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Scene Assets\LemonadeStand.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Scene Assets\LemonadeStand_0.xml</Key>
+        <Value>2012-06-29T14:09:18.4572147-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\Bench.fbx</Source>
+      <Name>Models\Scene Assets\Bench</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Scene Assets\Bench.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Scene Assets\Bench_0.xml</Key>
+        <Value>2012-06-29T14:09:18.6012291-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\Tree.fbx</Source>
+      <Name>Models\Scene Assets\Tree</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Scene Assets\Tree.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Scene Assets\Tree_0.xml</Key>
+        <Value>2012-06-29T14:09:18.7982488-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Vechiles\MiniCar.fbx</Source>
+      <Name>Models\Vechiles\MiniCar</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Vechiles\MiniCar.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Vechiles\MiniCar_0.xml</Key>
+        <Value>2012-06-29T14:09:19.0052695-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Staff.fbx</Source>
+      <Name>Models\Weapons\Staff</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\Staff.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\Staff_0.xml</Key>
+        <Value>2012-06-29T14:09:19.1182808-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Sword.FBX</Source>
+      <Name>Models\Weapons\Sword</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\Sword.xnb</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\Sword_0.xml</Key>
+        <Value>2012-06-29T14:09:19.2272917-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Shield.fbx</Source>
+      <Name>Models\Weapons\Shield</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\Shield.xnb</Output>
+      <Time>2012-06-25T11:50:38-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\Shield_0.xml</Key>
+        <Value>2012-06-29T14:09:19.3433033-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Bow.fbx</Source>
+      <Name>Models\Weapons\Bow</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\Bow.xnb</Output>
+      <Time>2012-06-25T11:52:20-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\Bow_0.xml</Key>
+        <Value>2012-06-29T14:09:19.5253215-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Chakram.fbx</Source>
+      <Name>Models\Weapons\Chakram</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\Chakram.xnb</Output>
+      <Time>2012-06-25T11:52:24-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\Chakram_0.xml</Key>
+        <Value>2012-06-29T14:09:19.6383328-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Mace.FBX</Source>
+      <Name>Models\Weapons\Mace</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\Mace.xnb</Output>
+      <Time>2012-06-25T11:52:28-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\Mace_0.xml</Key>
+        <Value>2012-06-29T14:09:19.7493439-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\Trashcan.fbx</Source>
+      <Name>Models\Scene Assets\Trashcan</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Scene Assets\Trashcan.xnb</Output>
+      <Time>2012-06-25T11:52:32-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Scene Assets\Trashcan_0.xml</Key>
+        <Value>2012-06-29T14:09:19.8543544-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\BattleAxe.fbx</Source>
+      <Name>Models\Weapons\BattleAxe</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\BattleAxe.xnb</Output>
+      <Time>2012-06-25T11:53:32-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\BattleAxe_0.xml</Key>
+        <Value>2012-06-29T14:09:20.3774067-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Buckler.FBX</Source>
+      <Name>Models\Weapons\Buckler</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\Buckler.xnb</Output>
+      <Time>2012-06-25T11:53:42-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\Buckler_0.xml</Key>
+        <Value>2012-06-29T14:09:20.5014191-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\ShortSword.FBX</Source>
+      <Name>Models\Weapons\ShortSword</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\ShortSword.xnb</Output>
+      <Time>2012-06-25T11:53:50-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\ShortSword_0.xml</Key>
+        <Value>2012-06-29T14:09:20.5994289-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\TowerShield.FBX</Source>
+      <Name>Models\Weapons\TowerShield</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\Models\Weapons\TowerShield.xnb</Output>
+      <Time>2012-06-25T11:53:52-07:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Weapons\TowerShield_0.xml</Key>
+        <Value>2012-06-29T14:09:20.7054395-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelTexture.png</Source>
+      <Name>modelTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\modelTexture.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>texture.png</Source>
+      <Name>texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\texture.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>CollisionSpheres.xml</Source>
+      <Name>CollisionSpheres</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\CollisionSpheres.xnb</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gizmo_rotate.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\gizmo_rotate_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gizmo_scale.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\gizmo_scale_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gizmo_translate.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\gizmo_translate_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Cone.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic Polys\Cone_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic Polys\Cube_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Cylinder.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic Polys\Cylinder_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Pyramid.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic Polys\Pyramid_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Basic Polys\Sphere.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Basic Polys\Sphere_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Character Models\New Rig.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Character Models\New Rig_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Character Models\Rig Test(Combined).fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Character Models\Rig Test(Combined)_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Character Models\RigTest3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Character Models\RigTest3_0.xml</Output>
+      <Time>2012-06-24T14:09:56-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Character Models\Wooden_Rig.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Character Models\Wooden_Rig_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Furniture\Chair.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Furniture\Chair_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Furniture\Couch.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Furniture\Couch_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Furniture\Table.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Furniture\Table_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\LampPost.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Scene Assets\LampPost_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\LemonadeStand.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Scene Assets\LemonadeStand_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\Bench.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Scene Assets\Bench_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\Tree.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Scene Assets\Tree_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Vechiles\MiniCar.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Vechiles\MiniCar_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Staff.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\Staff_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Sword.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\Sword_0.xml</Output>
+      <Time>2012-06-24T14:09:58-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Shield.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\Shield_0.xml</Output>
+      <Time>2012-06-25T11:50:38-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Bow.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\Bow_0.xml</Output>
+      <Time>2012-06-25T11:52:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Chakram.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\Chakram_0.xml</Output>
+      <Time>2012-06-25T11:52:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Mace.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\Mace_0.xml</Output>
+      <Time>2012-06-25T11:52:28-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Scene Assets\Trashcan.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Scene Assets\Trashcan_0.xml</Output>
+      <Time>2012-06-25T11:52:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\BattleAxe.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\BattleAxe_0.xml</Output>
+      <Time>2012-06-25T11:53:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\Buckler.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\Buckler_0.xml</Output>
+      <Time>2012-06-25T11:53:42-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\ShortSword.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\ShortSword_0.xml</Output>
+      <Time>2012-06-25T11:53:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Weapons\TowerShield.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Weapons\TowerShield_0.xml</Output>
+      <Time>2012-06-25T11:53:52-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\SkinnedModelExtenstion\bin\x86\Debug\SkinnedModelExtenstion.dll</Key>
+        <Value>2012-06-29T14:09:10.6554346-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-13T08:23:29.9023313-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

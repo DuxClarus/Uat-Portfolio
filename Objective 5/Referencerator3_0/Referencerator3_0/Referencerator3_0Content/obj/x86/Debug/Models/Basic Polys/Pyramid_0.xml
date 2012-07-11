@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>pPyramid1</Name>
+    <Identity>
+      <SourceFilename>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0Content\Models\Basic Polys\Pyramid.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 -11.019598 2.46759462 -0.3657149 1</Transform>
+    <Positions>6.471719E-07 -2.46759462 -4.93518925 -4.93518925 -2.46759462 -4.31447944E-07 -2.15723972E-07 -2.46759462 4.93518925 4.93518925 -2.46759462 0 0 2.46759462 0</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 9 8 7 12 11 10 15 14 13</Indices>
+        <Vertices>
+          <PositionIndices>0 3 2 1 0 1 4 1 2 4 2 3 4 3 0 4</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 -1 0 0 -1 0 0 -1 0 0 -1 0 -0.577350259 0.5773503 -0.5773503 -0.577350259 0.5773503 -0.5773503 -0.577350259 0.5773503 -0.5773503 -0.5773503 0.577350259 0.577350259 -0.5773503 0.577350259 0.577350259 -0.5773503 0.577350259 0.577350259 0.577350259 0.5773503 0.577350259 0.577350259 0.5773503 0.577350259 0.577350259 0.5773503 0.577350259 0.5773503 0.577350259 -0.577350259 0.5773503 0.577350259 -0.577350259 0.5773503 0.577350259 -0.577350259</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.50000006 1 0.75 0.75 0.5 0.5 0.25 0.75 0.25 0.5 0.375 0.5 0.5 0 0.375 0.5 0.5 0.5 0.5 0 0.5 0.5 0.625 0.5 0.5 0 0.625 0.5 0.75 0.5 0.5 0</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>lambert8</Name>
+      <Identity>
+        <SourceFilename>C:\Users\ethbehar\Desktop\PTErrrrrrr\Referencerator3_0\Referencerator3_0\Referencerator3_0Content\Models\Basic Polys\Pyramid.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.170400009 0.285826683 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

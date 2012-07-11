@@ -1,0 +1,6 @@
+C:\Users\peterste\Desktop\RefrenceratorV2_0_4_12A\RefrenceratorV2_0\SkinnedModel\bin\x86\Release\SkinnedModel.dll
+C:\Users\peterste\Desktop\RefrenceratorV2_0_4_12A\RefrenceratorV2_0\SkinnedModel\bin\x86\Release\SkinnedModel.pdb
+C:\Users\peterste\Desktop\RefrenceratorV2_0_4_12A\RefrenceratorV2_0\SkinnedModel\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\peterste\Desktop\RefrenceratorV2_0_4_12A\RefrenceratorV2_0\SkinnedModel\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\peterste\Desktop\RefrenceratorV2_0_4_12A\RefrenceratorV2_0\SkinnedModel\obj\x86\Release\SkinnedModel.dll
+C:\Users\peterste\Desktop\RefrenceratorV2_0_4_12A\RefrenceratorV2_0\SkinnedModel\obj\x86\Release\SkinnedModel.pdb

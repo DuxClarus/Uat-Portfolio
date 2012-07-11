@@ -1,0 +1,38 @@
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\obj\x86\Debug\caApplication.Form1.resources
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\obj\x86\Debug\caApplication.Properties.Resources.resources
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\bin\Debug\caApplication.exe
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\bin\Debug\caApplication.pdb
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\obj\x86\Debug\caApplication.exe
+C:\Users\Dux\Homework\Semester 5\caApplication\caApplication\obj\x86\Debug\caApplication.pdb
+J:\caApplication\caApplication\obj\x86\Debug\caApplication.exe
+J:\caApplication\caApplication\obj\x86\Debug\caApplication.pdb
+J:\caApplication\caApplication\bin\Debug\caApplication.exe
+J:\caApplication\caApplication\bin\Debug\caApplication.pdb
+J:\caApplication\caApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\caApplication\caApplication\obj\x86\Debug\caApplication.Properties.Resources.resources
+J:\caApplication\caApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\caApplication\caApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\caApplication\caApplication\obj\x86\Debug\caApplication.exe
+I:\caApplication\caApplication\obj\x86\Debug\caApplication.pdb
+I:\caApplication\caApplication\bin\Debug\caApplication.exe
+I:\caApplication\caApplication\bin\Debug\caApplication.pdb
+I:\caApplication\caApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\caApplication\caApplication\obj\x86\Debug\caApplication.Properties.Resources.resources
+I:\caApplication\caApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\caApplication\caApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\caApplication\caApplication\obj\x86\Debug\caApplication.formCA.resources
+J:\caApplication\caApplication\obj\x86\Debug\caApplication.formCA.resources
+G:\caApplication\caApplication\obj\x86\Debug\caApplication.exe
+G:\caApplication\caApplication\obj\x86\Debug\caApplication.pdb
+G:\caApplication\caApplication\bin\Debug\caApplication.exe
+G:\caApplication\caApplication\bin\Debug\caApplication.pdb
+G:\caApplication\caApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\caApplication\caApplication\obj\x86\Debug\caApplication.formCA.resources
+G:\caApplication\caApplication\obj\x86\Debug\caApplication.Properties.Resources.resources
+G:\caApplication\caApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\caApplication\caApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\project\caApplication\caApplication\obj\x86\Debug\caApplication.exe
+I:\project\caApplication\caApplication\obj\x86\Debug\caApplication.pdb

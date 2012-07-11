@@ -1,0 +1,9 @@
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Form1.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L_SystemApplication.Properties.Resources.resources
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\bin\Debug\L-SystemApplication.exe
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\bin\Debug\L-SystemApplication.pdb
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L-SystemApplication.exe
+C:\Users\Dux\Homework\Semester 5\L-SystemApplication\L-SystemApplication\obj\x86\Debug\L-SystemApplication.pdb
