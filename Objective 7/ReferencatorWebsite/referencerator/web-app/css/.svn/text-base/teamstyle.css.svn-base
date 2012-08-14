@@ -1,0 +1,148 @@
+#pageBody {
+	margin-left: 280px;
+	margin-right: 20px;
+}
+
+.clear {
+	clear: both;
+}
+
+h3 {
+	color: #FFA500;
+}
+
+h1 {
+	color: #FFA500;
+}
+
+p {
+	color: #307D7E;
+}
+#pageBody .HA {
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageBody .HA .HAPicture {
+	float: left;
+	height: 90px;
+	width: 100px;
+}
+
+#pageBody .Nate {
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageBody .Nate .NatePicture {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#pageBody .Casey {
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageBody .Casey .CaseyPicture {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#pageBody .Devon {
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageBody .Devon .DevonPicture {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#pageBody .Ethan {
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageBody .Ethan .EthanPicture {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#pageBody .Pete {
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageBody .Pete .PetePicture {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#pageBody .Neal {
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageBody .Neal .NealPicture {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#pageBody .Frank {
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-color: #000000;
+	margin-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#pageBody .Frank .FrankPicture {
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
+#pageBody h1 {
+	padding-bottom: 5px;
+	padding-left: 100px;
+}
+#pageBody p {
+	padding-bottom: 5px;
+	padding-left: 100px;
+}

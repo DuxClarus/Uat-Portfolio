@@ -1,0 +1,19 @@
+package referencerator
+
+class User {
+	Long id
+	Long version
+	String username
+	String email
+	String password
+	int userPrivileges
+
+    static constraints = {
+		username(blank:false, username:true)
+		email(blank:false, email:true)
+		password(blank:false, password:true)
+		}	
+	
+	String toString()
+		{ "$username" } 
+}

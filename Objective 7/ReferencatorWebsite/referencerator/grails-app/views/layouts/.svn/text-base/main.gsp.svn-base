@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><g:layoutTitle default="Referencerator by Appire Alliance" /></title>
+        <link rel="stylesheet" href="${resource(dir:'css',file:'main.css')}" />
+        <link rel="shortcut icon" href="${resource(dir:'images',file:'appireIcon2.ico')}" type="image/x-icon" />
+        <g:layoutHead />
+        <g:javascript library="application" />
+    </head>
+    <body>
+        <div id="spinner" class="spinner" style="display:none;">
+            <img src="${resource(dir:'images',file:'spinner.gif')}" alt="${message(code:'spinner.alt',default:'Loading...')}" />
+        </div>
+        <div id="referenceratorLogo"><img src="${resource(dir:'images',file:'ReferenceratorHeader.png')}" alt="Appire Logo Art"/>
+        <form method="POST" action="${resource(file: 'J_spring_security_check') }">
+		 <table>
+		   <tr>
+		     <td>Username:</td><td><g:textField name="j_username"/></td>
+		   </tr>
+		   <tr>
+		     <td>Password:</td><td><input name="j_password" type="password"/></td>
+		   </tr>
+		   <tr>
+		     <td colspan="2"><g:submitButton name="login" value="Login"/></td>
+		   </tr>
+		   <tr>
+		     <td colspan="2">try "glen" or "peter" with "password"</td>
+		   </tr>
+		 </table>
+        </form>
+        </div>
+        <div id="nav">
+		<div class="navPagePanel">
+			<div class="panelTop">
+			<h1>Navigate The Site</h1>
+			</div>
+			<div class="panelBody">
+				<a href="${resource(dir: '/')}">Home Page</a>
+				<a href="${resource(dir:'team',file:'index.gsp')}">Meet the Team</a>
+				<a href="${resource(dir:'underconstruction',file:'index.gsp')}">Downloads</a>
+				<g:link controller="tutorial">Tutorials</g:link>
+				<a href="${resource(dir:'underconstruction',file:'index.gsp')}">Report a bug</a>
+				<g:link controller="post">Forums</g:link>
+				<a href="${resource(dir:'underconstruction',file:'index.gsp')}">Contact Us</a>
+				<a href="${resource(dir:'login',file:'auth.gsp')}">Login</a>
+				<sec:username/> (<g:link controller="logout">Log Out</g:link>)
+			</div>
+			<div class="panelBottom"></div>
+		</div>
+	</div>
+	<g:layoutBody />
+    </body>
+</html>

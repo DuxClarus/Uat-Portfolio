@@ -1,0 +1,34 @@
+#notLoggedIn {
+	margin-top: 100px;
+	color: #FFA500;
+}
+
+#pageBody {
+	margin-left: 280px;
+	margin-right: 20px;
+}
+
+#pageBody h1 {
+	padding-left: 10px;
+}
+
+#pageBody h2 {
+	color: #307D7E;
+	line-height: 20px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+#pageBody h3 {
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+#pageBody tr {
+	padding-top: 100px;
+	margin-top: 511px;
+}
+
+#pageBody td {
+	margin-top: 100px;
+}

@@ -1,0 +1,39 @@
+#register label {
+	float: left;
+}
+
+#border label {
+	float: left;
+	width: 65px;
+}
+
+#form {
+	width: 220px;
+	padding-left: 420px;
+}
+
+#border {
+	border-style: solid;
+	margin-top: 25px;
+}
+
+#flashMessage {
+	font-weight: bolder;
+	color: red;
+	padding-left: 475px;
+	}
+	
+#logoutBorder {
+	width: 220px;
+	border-style: solid;
+	margin-top: 25px;	
+	margin-left: 420px;
+}
+
+#logoutBorder #logoutText{
+	padding-left: 50px;
+}
+
+#logoutBorder #logoutLink {
+	padding-left: 70px;
+}

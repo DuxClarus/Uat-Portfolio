@@ -1,0 +1,13 @@
+package referencerator
+
+class Tutorial {
+	String title
+	String urlToVideo
+	String description
+
+    static constraints = {
+		title(blank: false, nullable: false)
+		urlToVideo(blank: false, nullable: false)
+		description(blank: false, nullable: false)
+    }
+}

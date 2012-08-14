@@ -1,0 +1,23 @@
+package referencerator
+
+class UserController {
+	
+	def login = {
+		if(params.username == "admin" && params.password == "admin")
+		{
+			flash.message = "Login Succeed."
+			session.user = "admin"
+		}
+		else
+		{
+			flash.message = "Login Failed."
+		}
+	
+		redirect(action: 'index.gsp')		
+	}
+	
+	def logout = {
+		session.user = null
+		redirect(action: 'index.gsp')
+	}
+}
